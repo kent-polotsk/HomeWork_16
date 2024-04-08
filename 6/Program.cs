@@ -420,7 +420,7 @@ public class Program
 
 
         Console.ForegroundColor = ConsoleColor.Red;
-        Console.WriteLine("Задание 6.1\nСоздайте две коллекции: List<Car> cars(содержит тип Car, который имеет поля: Id, Name, Age)\n" +
+        Console.WriteLine("Задание 6.1 * \nСоздайте две коллекции: List<Car> cars(содержит тип Car, который имеет поля: Id, Name, Age)\n" +
             "и List<Buyer> buyers (содержит модель Buyer с полями: Id, Name, CarId).\n" +
             "Выведите на консоль информацию об одном покупателе и информацию о машине, которую он купил.\n" +
             "Правило выбора покупателя говорит о том, что его имя должно быть первым при сортировке по возрастанию.\n" +

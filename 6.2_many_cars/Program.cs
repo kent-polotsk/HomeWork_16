@@ -419,7 +419,7 @@ namespace _6._2_many_cars
 
 
             Console.ForegroundColor = ConsoleColor.Red;
-            Console.WriteLine("Задание 6.2\nОдин покупатель может купить много машин.");
+            Console.WriteLine("Задание 6.2 * \nОдин покупатель может купить много машин.");
             Console.ResetColor();
 
             PrintGuide();
